@@ -38,6 +38,6 @@ module.exports = {
             filename: 'css/bundle.css'
         })
     ],
-    devtool: 'source-map'
+    devtool: 'source-map' 
 
 }
